@@ -1,0 +1,19 @@
+{
+    "name": "artisangang/jvalidator",
+    "type": "library",
+    "description": "Client side validator fro laravel 5",
+    "authors": [
+        {
+            "name": "Harcharan Singh",
+            "email": "artisangang@gmail.com"
+        }
+    ],
+   
+    "autoload": {
+        "psr-4": {
+            "Artisangang\\": "artisangang/src"
+           
+        }
+    },
+   
+}
